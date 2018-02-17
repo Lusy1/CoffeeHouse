@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello Android.</string>
+    <string name="come_to_join_us">Come to enjoy your favorite cup of coffee! Relax and feel like at home. </string>
+    <string name="lucy">Coffee-house Lucy</string>
+    <string name="kadnarova">Kadnarova 57</string>
+    <string name="bratislava">83151 Bratislava</string>
+    <string name="tel">02 58325567</string>
+    <string name="website">www.coffehouselucy.com</string>
+    <string name="fontFamily">sans-serif</string>
+    <string name="cursive">cursive</string>
+
+</resources>
+

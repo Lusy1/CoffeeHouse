@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingBottomImage">265dp</dimen>
+    <dimen name="marginTopTextView1">45dp</dimen>
+    <dimen name="textSizeLucy">58sp</dimen>
+    <dimen name="textSizeText">26sp</dimen>
+    <dimen name="paddingBottomText">180dp</dimen>
+    <dimen name="paddingLeftText">10dp</dimen>
+    <dimen name="paddingRightText">10dp</dimen>
+    <dimen name="paddingBottomAddress">130dp</dimen>
+    <dimen name="textSize24">24sp</dimen>
+    <dimen name="marginTop33">33dp</dimen>
+    <dimen name="textSize21">21sp</dimen>
+    <dimen name="marginTop10">10dp</dimen>
+    <dimen name="marginTop5">5dp</dimen>
+</resources>
